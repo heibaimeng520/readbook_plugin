@@ -4,5 +4,8 @@ dist
 *.local
 .claude
 .playwright-cli
-*.png
-!README.md
+
+# Exclude screenshots from git (too large for diff)
+# reader-test.png
+# reader-after-flip.png
+# stpageflip-working.png

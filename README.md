@@ -6,8 +6,7 @@ This is a simple reader plugin, recommended for efficiency.
 
 ## Screenshots
 
-![Reader with page-flip animation](flip-success.png)
-![Click-to-flip interaction](flip-mouse-click.png)
+> Screenshots coming soon — run `npm run dev` to see the reader in action.
 
 ## Features
 
