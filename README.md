@@ -2,6 +2,8 @@
 
 A feature-rich, offline-first e-book reader for desktop browsers built with Vue 3, featuring realistic page-flip animations powered by StPageFlip.
 
+This is a simple reader plugin, recommended for efficiency.
+
 ## Screenshots
 
 ![Reader with page-flip animation](flip-success.png)
